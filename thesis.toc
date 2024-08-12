@@ -39,10 +39,10 @@
 \contentsline {section}{\numberline {5-1}پیاده‌سازی}{54}{section.5.1}%
 \contentsline {section}{\numberline {5-2}ارزیابی}{54}{section.5.2}%
 \contentsline {subsection}{\numberline {5-2-1}مجموعه دادگان}{54}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5-2-2}هستی‌شناسی}{57}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5-2-3}دسته‌بند}{58}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5-2-4}نتایج}{58}{subsection.5.2.4}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری}{59}{chapter.6}%
-\contentsline {section}{\numberline {6-1}جمع‌بندی}{59}{section.6.1}%
-\contentsline {section}{\numberline {6-2}پیشنهادهایی برای پژوهش‌های آینده}{60}{section.6.2}%
-\contentsline {chapter}{مراجع}{61}{section*.28}%
+\contentsline {subsection}{\numberline {5-2-2}هستی‌شناسی}{58}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}دسته‌بند}{60}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5-2-4}نتایج}{60}{subsection.5.2.4}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری}{61}{chapter.6}%
+\contentsline {section}{\numberline {6-1}جمع‌بندی}{61}{section.6.1}%
+\contentsline {section}{\numberline {6-2}پیشنهادهایی برای پژوهش‌های آینده}{62}{section.6.2}%
+\contentsline {chapter}{مراجع}{63}{section*.29}%
