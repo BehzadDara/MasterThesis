@@ -1,65 +1,48 @@
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}مفاهیم اولیه}{6}{chapter.2}%
-\contentsline {section}{\numberline {2-1}طرح ارز دیجیتال}{6}{section.2.1}%
-\contentsline {subsection}{\numberline {2-1-1}پول الکترونیکی}{8}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2-1-2}رمزارز}{9}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2-1-3}ارز دیجیتال بانک مرکزی}{10}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2-1-4}جمع‌بندی}{11}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2-2}نیازمندی‌های امنیتی پول}{11}{section.2.2}%
-\contentsline {subsection}{\numberline {2-2-1}مقاوم در برابر دوبار خرج‌کردن}{12}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2-2-2}غیر قابل جعل}{14}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2-2-3}حفظ عدم تقصیر}{16}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2-2-4}حافظ حریم خصوصی}{16}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2-3}مقابله با جرایم مالی}{17}{section.2.3}%
-\contentsline {subsection}{\numberline {2-3-1}حسابرسی}{19}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2-3-2}اِعمال قوانین}{20}{subsection.2.3.2}%
-\contentsline {chapter}{\numberline {3}کارهای پیشین}{22}{chapter.3}%
-\contentsline {section}{\numberline {3-1}پرداخت برون‌خط}{22}{section.3.1}%
-\contentsline {subsection}{\numberline {3-1-1}تشخیص دوبار خرج‌کردن}{24}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3-1-2}سخت‌افزار امن}{26}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3-1-3}پول غیرمِثلی}{28}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3-1-4}اعتباردهنده}{28}{subsection.3.1.4}%
-\contentsline {section}{\numberline {3-2}حریم خصوصی}{29}{section.3.2}%
-\contentsline {subsection}{\numberline {3-2-1}تفکیک‌کننده}{29}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3-2-2}پنهان‌کننده}{30}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3-2-3}جداکننده}{30}{subsection.3.2.3}%
-\contentsline {section}{\numberline {3-3}مبارزه با جرایم مالی}{32}{section.3.3}%
-\contentsline {subsection}{\numberline {3-3-1}تشخیص جرایم}{32}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3-3-2}اِعمال قوانین}{33}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3-4}مقایسه و جمع‌بندی}{34}{section.3.4}%
-\contentsline {chapter}{\numberline {4}راهکار پیشنهادی}{36}{chapter.4}%
-\contentsline {section}{\numberline {4-1}توصیف اجمالی}{36}{section.4.1}%
-\contentsline {section}{\numberline {4-2}مدل‌سازی}{39}{section.4.2}%
-\contentsline {subsection}{\numberline {4-2-1}نقش‌ها}{39}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4-2-2}مدل تهدید}{40}{subsection.4.2.2}%
-\contentsline {subsubsection}{پردازنده تراکنش}{40}{section*.15}%
-\contentsline {subsubsection}{مدیر توکن برون‌خط}{41}{section*.16}%
-\contentsline {subsubsection}{کاربر}{41}{section*.17}%
-\contentsline {subsection}{\numberline {4-2-3}نمایش دارایی و تراکنش}{42}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4-2-4}سازگاری با قوانین}{43}{subsection.4.2.4}%
-\contentsline {section}{\numberline {4-3}عملکرد سیستم}{45}{section.4.3}%
-\contentsline {subsection}{\numberline {4-3-1}فرایند برداشت پول}{45}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4-3-2}فرایند تراکنش برون‌خط}{48}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4-3-3}فرایند اشتراک‌گذاری اطلاعات برای مقابله با دوبار خرج‌کردن}{49}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4-3-4}جمع‌بندی}{51}{subsection.4.3.4}%
-\contentsline {chapter}{\numberline {5}ارزیابی و تحلیل}{53}{chapter.5}%
-\contentsline {section}{\numberline {5-1}مدل‌سازی عامل‌بنیان}{53}{section.5.1}%
-\contentsline {subsection}{\numberline {5-1-1}عامل‌ها}{54}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5-1-2}محیط}{55}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5-1-3}تعاملات}{56}{subsection.5.1.3}%
-\contentsline {section}{\numberline {5-2}مجموعه‌دادگان}{57}{section.5.2}%
-\contentsline {subsection}{\numberline {5-2-1}جمع‌آوری}{57}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5-2-2}مشخصات}{58}{subsection.5.2.2}%
-\contentsline {section}{\numberline {5-3}ارزیابی}{59}{section.5.3}%
-\contentsline {subsection}{\numberline {5-3-1}پیاده‌سازی}{60}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5-3-2}پارامترهای ورودی سیستم}{60}{subsection.5.3.2}%
-\contentsline {subsubsection}{پارامترهای محیطی}{61}{section*.23}%
-\contentsline {subsubsection}{پارامترهای کاربردی}{61}{section*.25}%
-\contentsline {subsection}{\numberline {5-3-3}معیارهای ارزیابی امنیت}{62}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5-3-4}پیشگیری از دوبار خرج‌کردن}{63}{subsection.5.3.4}%
-\contentsline {subsection}{\numberline {5-3-5}تشخیص دوبار خرج‌کردن}{64}{subsection.5.3.5}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری}{67}{chapter.6}%
-\contentsline {section}{\numberline {6-1}جمع‌بندی}{67}{section.6.1}%
-\contentsline {section}{\numberline {6-2}مسائل باز}{67}{section.6.2}%
-\contentsline {section}{\numberline {6-3}پیشنهاد کار آتی}{67}{section.6.3}%
-\contentsline {chapter}{مراجع}{68}{section*.28}%
+\contentsline {chapter}{\numberline {2}تعاریف و مفاهیم اولیه}{5}{chapter.2}%
+\contentsline {section}{\numberline {2-1}مفاهیم پایه}{5}{section.2.1}%
+\contentsline {section}{\numberline {2-2}روش‌های داده‌محور، دانش‌محور و ترکیبی}{6}{section.2.2}%
+\contentsline {section}{\numberline {2-3}هستی‌شناسی}{7}{section.2.3}%
+\contentsline {section}{\numberline {2-4}قوانین انجمنی‌}{9}{section.2.4}%
+\contentsline {section}{\numberline {2-5}زیست‌بوم خانه‌های هوشمند‌}{9}{section.2.5}%
+\contentsline {section}{\numberline {2-6}سکوهای اینترنت اشیاء‌}{11}{section.2.6}%
+\contentsline {chapter}{\numberline {3}کارهای پیشین}{12}{chapter.3}%
+\contentsline {section}{\numberline {3-1}هستی‌شناسی‌های حوزه اینترنت اشیاء}{12}{section.3.1}%
+\contentsline {subsection}{\numberline {3-1-1}هستی‌شناسی مبتنی بر حسگر}{13}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3-1-2}‌هستی‌شناسی مبتنی بر زمینه}{14}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3-1-3}هستی‌شناسی مبتنی بر مکان}{15}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3-1-4}هستی‌شناسی مبتنی بر زمان}{16}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3-1-5}جمع‌بندی}{16}{subsection.3.1.5}%
+\contentsline {section}{\numberline {3-2}تشخیص فعالیت‌های کاربران در خانه های هوشمند}{17}{section.3.2}%
+\contentsline {subsection}{\numberline {3-2-1}راهکارهای داده‌محور}{18}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3-2-2}راهکارهای دانش‌محور}{19}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3-2-3}راهکارهای ترکیبی}{20}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3-2-4}جمع‌بندی}{22}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3-3}حفظ حریم خصوصی مبتنی بر سکوی نامعتمد}{22}{section.3.3}%
+\contentsline {subsection}{\numberline {3-3-1}راهکارهای مبتنی بر رمزنگاری}{24}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3-3-2}راهکارهای مبتنی بر کمینه‌سازی}{25}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3-3-3}راهکارهای مبتنی بر آشفته‌سازی}{28}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3-3-4}راهکارهای مبتنی بر تولید رویدادهای جعلی‌}{29}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3-3-5}جمع‌بندی}{31}{subsection.3.3.5}%
+\contentsline {chapter}{\numberline {4}راهکار پیشنهادی}{33}{chapter.4}%
+\contentsline {section}{\numberline {4-1}توصیف اجمالی}{33}{section.4.1}%
+\contentsline {section}{\numberline {4-2}مدل تهدید}{34}{section.4.2}%
+\contentsline {section}{\numberline {4-3}راهکار پیشنهادی}{34}{section.4.3}%
+\contentsline {subsection}{\numberline {4-3-1}معماری کلان}{35}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4-4}مدل‌سازی}{36}{section.4.4}%
+\contentsline {subsection}{\numberline {4-4-1}هستی‌شناسی}{36}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4-4-2}‌مدل‌سازی فعالیت کاربر با قوانین انجمنی}{46}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4-4-3}‌الگوریتم تولید سلسله فعالیت جعلی}{47}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4-4-4}‌عوامل تصادفی‌ساز}{52}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4-5}جمع‌بندی}{53}{section.4.5}%
+\contentsline {chapter}{\numberline {5}پیاده‌سازی و ارزیابی}{54}{chapter.5}%
+\contentsline {section}{\numberline {5-1}پیاده‌سازی}{54}{section.5.1}%
+\contentsline {section}{\numberline {5-2}ارزیابی}{54}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}مجموعه دادگان}{54}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}هستی‌شناسی}{58}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5-2-3}دسته‌بند}{58}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5-2-4}نتایج}{59}{subsection.5.2.4}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری}{60}{chapter.6}%
+\contentsline {section}{\numberline {6-1}جمع‌بندی}{60}{section.6.1}%
+\contentsline {section}{\numberline {6-2}پیشنهادهایی برای پژوهش‌های آینده}{61}{section.6.2}%
+\contentsline {chapter}{مراجع}{62}{section*.28}%

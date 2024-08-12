@@ -1,19 +1,26 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1-1}{\ignorespaces عوامل ناکارآمدی سیستم پرداخت دیجیتال\relax }}{2}{figure.caption.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2-1}{\ignorespaces طبقه‌بندی انواع پول (گلِ پول)}}{7}{figure.caption.5}%
-\contentsline {figure}{\numberline {2-2}{\ignorespaces چرخه حیات پول الکترونیکی}}{8}{figure.caption.6}%
-\contentsline {figure}{\numberline {2-3}{\ignorespaces فرایند حسابرسی و اِعمال قوانین مالی}}{19}{figure.caption.10}%
+\contentsline {figure}{\numberline {2-1}{\ignorespaces معماری رایج خانه‌های هوشمند}}{10}{figure.caption.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces انواع کیف پول\relax }}{27}{figure.caption.11}%
-\contentsline {figure}{\numberline {3-2}{\ignorespaces سه دسته تکنیک‌های بهبود حریم خصوصی}}{31}{figure.caption.12}%
+\contentsline {figure}{\numberline {3-1}{\ignorespaces فرایند سه مرحله‌ای تکرارشونده‌ی مدل کردن فعالیت‌ها در راهکار چن و همکاران}}{21}{figure.caption.6}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces اجزای سیستم و نحوه تعامل آن‌ها با یکدیگر\relax }}{38}{figure.caption.14}%
-\contentsline {figure}{\numberline {4-2}{\ignorespaces فرایند برداشت پول به محیط برون‌خط\relax }}{46}{figure.caption.18}%
-\contentsline {figure}{\numberline {4-3}{\ignorespaces نمای کلی فرایندهای سیستم\relax }}{52}{figure.caption.19}%
+\contentsline {figure}{\numberline {4-1}{\ignorespaces محل استقرار سیستم تولیدکننده سلسله فعالیت جعلی}}{35}{figure.caption.9}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces نمونه نقشه خانه هوشمند}}{37}{figure.caption.10}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces هستی‌شناسی بخش‌های خانه هوشمند}}{38}{figure.caption.11}%
+\contentsline {figure}{\numberline {4-4}{\ignorespaces هستی‌شناسی اشیاء خانه هوشمند}}{39}{figure.caption.12}%
+\contentsline {figure}{\numberline {4-5}{\ignorespaces هستی‌شناسی افراد حاضر در خانه هوشمند}}{40}{figure.caption.13}%
+\contentsline {figure}{\numberline {4-6}{\ignorespaces هستی‌شناسی فراداده‌های اشیاء خانه هوشمند}}{41}{figure.caption.14}%
+\contentsline {figure}{\numberline {4-7}{\ignorespaces هستی‌شناسی اجزای محیط خانه هوشمند}}{42}{figure.caption.15}%
+\contentsline {figure}{\numberline {4-8}{\ignorespaces هستی‌شناسی کلی فعالیت‌های خانه هوشمند}}{43}{figure.caption.16}%
+\contentsline {figure}{\numberline {4-9}{\ignorespaces هستی‌شناسی شرایط فعالیت‌های خانه هوشمند}}{44}{figure.caption.17}%
+\contentsline {figure}{\numberline {4-10}{\ignorespaces هستی‌شناسی نتایج فعالیت‌های خانه هوشمند}}{45}{figure.caption.18}%
+\contentsline {figure}{\numberline {4-11}{\ignorespaces هستی‌شناسی فعالیت‌های احتمالی بعدی خانه هوشمند}}{45}{figure.caption.19}%
+\contentsline {figure}{\numberline {4-12}{\ignorespaces مثالی از مدل‌سازی احتمال‌ توالی فعالیت‌ها با استفاده از قوانین انجمنی}}{46}{figure.caption.20}%
+\contentsline {figure}{\numberline {4-13}{\ignorespaces احتمال کلی فعالیت‌ها در مثال شکل \ref {fig:f42}}}{48}{figure.caption.21}%
+\contentsline {figure}{\numberline {4-14}{\ignorespaces احتمال انتخاب فعالیت‌ها در حرکت عقبگرد}}{49}{figure.caption.22}%
+\contentsline {figure}{\numberline {4-15}{\ignorespaces الگوریتم تولید سلسله فعالیت جعلی}}{50}{figure.caption.23}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5-1}{\ignorespaces مدل مبتنی بر عامل پرداخت برون‌خط\relax }}{55}{figure.caption.20}%
-\contentsline {figure}{\numberline {5-2}{\ignorespaces آمار تراکنش‌های مراکز فروش شاپرک در استان تهران}}{65}{figure.caption.22}%
-\contentsline {figure}{\numberline {5-3}{\ignorespaces تغییرات نرخ حمله در محیط برون‌خط}}{66}{figure.caption.26}%
-\contentsline {figure}{\numberline {5-4}{\ignorespaces تأثیر پارامترهای روش پیشگیری بر تعداد حملات انجام شده}}{66}{figure.caption.27}%
+\contentsline {figure}{\numberline {5-1}{\ignorespaces نقشه خانه مجموعه داده \lr {Orange4Home}، طبقه همکف}}{55}{figure.caption.24}%
+\contentsline {figure}{\numberline {5-2}{\ignorespaces نقشه خانه مجموعه داده \lr {Orange4Home}، طبقه اول}}{55}{figure.caption.25}%
+\contentsline {figure}{\numberline {5-3}{\ignorespaces نمونه داده ارسالی از حسگرها}}{58}{figure.caption.27}%
 \addvspace {10\p@ }
