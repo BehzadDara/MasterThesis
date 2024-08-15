@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10) (preloaded format=xelatex 2023.11.6)  12 AUG 2024 14:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10) (preloaded format=xelatex 2023.11.6)  12 AUG 2024 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2910,14 +2910,16 @@ File: figs/fO4H4.png Graphic file (type bmp)
 <figs/fO4H4.png>
  [58] [59]
 
-LaTeX Warning: Reference `' on page 60 undefined on input line 90.
+LaTeX Warning: Citation `x3341' on page 60 undefined on input line 90.
 
-) [60]
+File: figs/fO4H5.png Graphic file (type bmp)
+<figs/fO4H5.png>
+[60]) [61]
 \openout2 = `chapters/conclusions.aux'.
 
  (chapters/conclusions.tex
 فصل 6.
-[61
+[62
 
 
 
@@ -2929,7 +2931,7 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 18.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 20.
 
-) [62] (bibs/bibs.tex (thesis.bbl))
+) [63] (bibs/bibs.tex (thesis.bbl))
 \openout2 = `front/dictionary.aux'.
 
  (front/dictionary.tex
@@ -3037,7 +3039,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--61
 [][]
  []
 
-[63
+[64
 
 
 
@@ -3143,7 +3145,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--119
 [][]
  []
 
-[64]
+[65]
 Overfull \hbox (18.0pt too wide) in paragraph at lines 120--126
 [][]$[]$[]
  []
@@ -3183,7 +3185,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--139
 [][]
  []
 
-[65])
+[66])
 \openout2 = `front/dictionary_en.aux'.
 
  (front/dictionary_en.tex
@@ -3256,7 +3258,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--60
 [][]
  []
 
-[66
+[67
 
 
 
@@ -3351,7 +3353,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--120
 [][]
  []
 
-[67]
+[68]
 Overfull \hbox (18.0pt too wide) in paragraph at lines 121--124
 [][]$[]$[]
  []
@@ -3371,7 +3373,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--127
 [][]
  []
 
-[68])
+[69])
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
 * paper: a4paper
@@ -3406,7 +3408,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
 \openout2 = `front/abstract-eng.aux'.
 
- (front/abstract-eng.tex) [69
+ (front/abstract-eng.tex) [70
 
 
 
@@ -3417,7 +3419,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--127
  (front/template/title-eng.tex
 File: front/template/images/logo.png Graphic file (type bmp)
 <front/template/images/logo.png>
-) [70
+) [71
 
 
 
@@ -3441,15 +3443,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: B48715A27EDC0EE3BE57F1888989432B;9709.
+(rerunfilecheck)             Checksum: F41F9DF72224C75C6624D605FFBDBCFE;9709.
  ) 
 Here is how much of TeX's memory you used:
- 35088 strings out of 410379
- 684162 string characters out of 5788254
+ 35099 strings out of 410379
+ 684406 string characters out of 5788254
  1954416 words of memory out of 5000000
- 55555 multiletter control sequences out of 15000+600000
+ 55565 multiletter control sequences out of 15000+600000
  568354 words of font info for 136 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,15n,120p,1495b,1035s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thesis.pdf (83 pages).
+Output written on thesis.pdf (84 pages).
