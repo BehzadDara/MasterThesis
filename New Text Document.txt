@@ -1,0 +1,31 @@
+@misc{xp1,
+  author = {Wikipedia},
+  title = {Web API},
+  year = {2024},
+  howpublished = {\url{https://en.wikipedia.org/wiki/Web_API}},
+  note = {Accessed: 15-Aug-2024}
+}
+
+@misc{xp2,
+  author = {Swagger},
+  title = {What is Swagger?},
+  year = {2024},
+  howpublished = {\url{https://swagger.io/docs/specification/2-0/what-is-swagger/}},
+  note = {Accessed: 15-Aug-2024}
+}
+
+@misc{xp3,
+  author = {Dean Rubin},
+  title = {The Three-Layered Architecture},
+  year = {2024},
+  howpublished = {\url{https://medium.com/@deanrubin/the-three-layered-architecture-fe30cb0e4a6}},
+  note = {Accessed: 15-Aug-2024}
+}
+
+@misc{xp4,
+  author = {Microsoft},
+  title = {What is SQL Server?},
+  year = {2024},
+  howpublished = {\url{https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16}},
+  note = {Accessed: 15-Aug-2024}
+}
